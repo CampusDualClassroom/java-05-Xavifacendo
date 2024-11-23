@@ -6,7 +6,7 @@ public class Exercise05 {
     public static void main(String[] args) {
         checkLessOrGreaterEqual(5,5);
         checkMultiply(5,3);
-        checkPositiveNegative(-20);
+        checkPositiveNegative(5);
     }
 
 
